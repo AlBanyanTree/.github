@@ -64,10 +64,10 @@ Probabilistic forecasting combining econometric models with stress testing and s
 
 ### 🎓 Exceptional Professional Team
 17 seasoned professionals including:
-- Former bank vice presidents with institutional trading experience
-- CFA and FRM charterholders
-- Mathematics PhDs specializing in financial modeling
-- PRMIA (Professional Risk Managers International Association) finalists
+- Former bank vice president with institutional trading experience (business angel)
+- CFA and FRM charterholder
+- Mathematics PhD specializing in financial modeling
+- PRMIA US (Professional Risk Managers International Association) finalists
 - Regional specialists in Middle Eastern and Southeast Asian commodity markets
 
 ### 📊 Cutting-Edge Quantitative Analytics
